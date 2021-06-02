@@ -7,3 +7,15 @@ p {
 h1 {
     color: rgba(255, 0, 0, 0.67);
 }
+.menu_box{
+    position:relative;
+    top:0px;
+    left:0px;
+    border:0px solid black;
+    background-color:#00aa00;
+    margin:0px;
+    padding:0px;
+    align:center;
+    height:65px;
+    width:100%;
+}
