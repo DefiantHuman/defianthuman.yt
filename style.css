@@ -1,4 +1,4 @@
-body {background-color: rgb(125, 66, 80);}
+body {background-color: rgb(80, 20, 80);}
 p {
     color: orange;
     font-size: 18px;
@@ -30,5 +30,4 @@ td {
     width: 76px;
     height:76px;
     line-height:70px;
-}
 }
