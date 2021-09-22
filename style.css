@@ -5,8 +5,8 @@ p {
 }
 h1 {color: rgba(255, 0, 0, 0.7);}
 td {
-    border:3px solid orange; 
-    padding: 2px;
+    border:2px solid orange; 
+    padding: 5px;
 }
 .menu_box{
     position:relative;
